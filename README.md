@@ -31,15 +31,15 @@ flutter pub get
 
 ```
 4. OpenWeatherMap Account and Generate API Key
-    - go to the [link](https://home.openweathermap.org/).
+    - go to the [link](https://www.coinapi.io/).
     - 
-      ![Screenshot 2024-01-06 111727](https://github.com/anonymousminati/BitCoiner/assets/96016022/69763cb5-fa04-4dd8-8270-575dc5b0c7ef)
+      ![image](https://github.com/anonymousminati/BitCoiner/assets/96016022/44859a00-a251-4daa-b6f1-8ba01fb1017c)
 
     - Create Account or Login
   
     - Hover on Profile and select __My API Key__
     - Generate new api key
-    - ![image](https://github.com/anonymousminati/BitCoiner/assets/96016022/72bcd141-125a-4334-b5a5-0ada2de13138)
+          ![image](https://github.com/anonymousminati/BitCoiner/assets/96016022/0ff8c0e5-f834-4e91-ac84-c9c1535dd292)
     - Copy your Api key and put it in  /lib/utils/constants.dart
     
        ![Screenshot 2024-01-06 112519](https://github.com/anonymousminati/BitCoiner/assets/96016022/2f26c880-10ba-436b-8f6c-f15170642053)
