@@ -17,7 +17,7 @@ BitCoiner is a Flutter app that provides real-time updates on the current value 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/BitCoiner.git
+git clone https://github.com/anonymousminati/BitCoiner.git
 ```
 2. Navigate to the project directory:
 
